@@ -7,8 +7,8 @@ functionalities of the
 
 In this repository you find two ASDF systems:
 
-* gtk-server: is the Gtk-Server client package;
-* gtk-server-components: is a package with some reusable components.
+* `gtk-server`: is the Gtk-Server client package;
+* `gtk-server-components`: is a package with some reusable components.
 
 This package works on Linux, Windows and MacOSX. Please consult the
 documentation to have details on the supported Common Lisp
